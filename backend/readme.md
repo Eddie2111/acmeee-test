@@ -1,3 +1,7 @@
+## Activate the environment
+
+  source venv/bin/activate
+
 ## Install all the dependencies
 
   pip install -r requirements.txt
